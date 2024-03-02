@@ -55,6 +55,12 @@ mais ça arrivera peu être jamais haha.
 - Héritage (inhéritance)
 - Interface
 
+## Avancé: BDD (Base de donnée)
+
+- C'est quoi une base de donnée à quoi ca sert ?
+- SQL basique SELECT, UPDATE, DELETE
+Installer une base de donnée (Postgresql). Créer une table. Afficher, modifier la table depuis une page web via un server (Api rest) qui lui intéragit avec la base de donnée.
+
 ## Expert OOP
 
 - Les Generics
